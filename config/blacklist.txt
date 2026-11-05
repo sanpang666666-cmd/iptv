@@ -4507,3 +4507,10 @@ url*http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&auth
 url*http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
 url*http://204.12.221.218:8181/3m1080p/cctv10.m3u8
 url*http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225732/2/index.m3u8
+url*http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
+url*http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?fmmv6
+url*http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225991/index.m3u8
+url*http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
