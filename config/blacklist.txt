@@ -4514,3 +4514,20 @@ url*http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
 url*http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?fmmv6
 url*http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225991/index.m3u8
 url*http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+url*http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
+url*http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
+url*http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+url*http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
+url*http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225483/2/index.m3u8
+url*http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+url*http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+url*http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+url*http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
+url*http://101.35.240.114:88/live.php?id=CHC动作电影
+url*http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8
+url*http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+url*http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+url*http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
