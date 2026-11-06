@@ -4542,3 +4542,11 @@ url*http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
 # 自动测速检测失效链接 url|auto_bad
 url*http://120.40.39.246:352/newlive/live/hls/11/live.m3u8
 url*http://173.208.212.130:8181/1080p/cctv5p.m3u8
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://198.204.228.26/live/cctv2hd.m3u8
+url*http://198.204.228.26/live/chcjt.m3u8
+url*http://204.12.221.218:8181/3m1080p/ynws.m3u8
+url*http://107.150.60.122/live/cctv4hd.m3u8
+url*http://107.150.60.122/live/nxws.m3u8
+url*http://107.150.60.122/live/nmgws.m3u8
