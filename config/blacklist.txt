@@ -4572,3 +4572,11 @@ url*http://120.238.94.10:9901/tsfile/live/1027_1.m3u8
 url*http://gslbmgsplive.miguvideo.com/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=0cd7ff84c4ff386f273994b2a37b9e8b&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20261107075046&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=39.103.188.159&SecurityKey=20261107075046&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0d17408b6822cead5c89388004c86837&ddCalcu=703dv81a67l84ac0480b068882329c8eca5d&sv=10004&ct=android
 url*http://23.237.228.134/live5/CCTV9.m3u8
 url*http://111.160.17.2:59901/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225766/2/index.m3u8
+url*http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+url*http://[2409:8087:74d9:21::6]:80/270000001128/9900000021/index.m3u8
+url*http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
+url*http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+url*https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
