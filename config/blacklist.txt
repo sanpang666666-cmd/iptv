@@ -4580,3 +4580,6 @@ url*http://[2409:8087:74d9:21::6]:80/270000001128/9900000021/index.m3u8
 url*http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
 url*http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 url*https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
