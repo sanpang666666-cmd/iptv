@@ -374,9 +374,14 @@ def main():
                 lines.append(f'#EXTINF:-1 group-title="{group}",{show_name}')
                 lines.append(link)
 
-    # 写入M3U格式 iptv.txt（所有URL均无$后缀）
+    # 写入M3U格式 iptv.txt 和 iptv.m3u（内容完全相同）
+    m3u_content = "\n".join(lines)
     with open(OUTPUT_TXT, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
+       f.write(m3u_content)
+
+    # 额外生成 iptv.m3u
+    with open("iptv.m3u", "w", encoding="utf-8") as f:
+       f.write(m3u_content)
 
     # 转换生成DIYP专用 tv.txt
     with open(OUTPUT_TXT, "r", encoding="utf-8") as rf:
