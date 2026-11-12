@@ -4583,3 +4583,16 @@ url*https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/stream
 
 # 自动测速检测失效链接 url|auto_bad
 url*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://112.85.93.3:7788/738910535
+url*http://112.85.93.3:7788/961023778
+url*http://116.237.170.51:7788/952383261
+url*http://192.151.150.154/live/cctv16hd.m3u8
+url*http://112.85.93.3:7788/641886683
+url*http://112.85.93.3:7788/608831231
+url*http://112.85.93.3:7788/956923145
+url*http://112.85.93.3:7788/738910838
+url*http://112.85.93.3:7788/641886773
+url*http://116.237.170.51:7788/624878405
+url*http://112.85.93.3:7788/630291707
