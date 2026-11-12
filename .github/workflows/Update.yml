@@ -3,8 +3,8 @@ name: Auto IPTV Update
 on:
   workflow_dispatch:
   schedule:
-  # 北京时间每天 07:00、13:00、19:00、次日01:00
-  - cron: '0 23,5,11,17 * * *'
+  # 北京时间每天 06:00、18:00
+  - cron: '0 22,10 * * *'
 env:
   TZ: Asia/Shanghai
 
