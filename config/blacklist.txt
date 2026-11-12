@@ -4596,3 +4596,15 @@ url*http://112.85.93.3:7788/738910838
 url*http://112.85.93.3:7788/641886773
 url*http://116.237.170.51:7788/624878405
 url*http://112.85.93.3:7788/630291707
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://42.94.209.184:7788/947472500
+url*http://116.237.170.51:7788/608807420
+url*http://116.237.170.51:7788/947472496
+url*http://116.237.170.51:7788/947472502
+url*http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+url*http://gmxw.7766.org:808/hls/93/index.m3u8
+url*http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1555700033_-766721196/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
+url*http://198.204.228.26/live/cctv13hd.m3u8
+url*https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+url*http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
