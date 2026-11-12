@@ -13,8 +13,6 @@ jobs:
     timeout-minutes: 55  # 55分钟主动终止，避免占用资源
     permissions:
       contents: write
-      pages: write       # 新增：Pages部署权限
-      id-token: write    # 新增：Pages鉴权令牌权限
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v4
