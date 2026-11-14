@@ -4841,3 +4841,7 @@ url*http://113.124.186.195:7788/673168121
 # 自动测速检测失效链接 url|auto_bad
 url*http://r.jdshipin.com/GeWKr?id=fct406
 url*http://r.jdshipin.com/qrfbg
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://112.85.93.3:7788/631780532
+url*http://112.85.93.3:7788/608807420
