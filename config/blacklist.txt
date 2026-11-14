@@ -4837,3 +4837,7 @@ url*http://42.94.209.184:7788/608807423
 url*http://116.237.170.51:7788/651632648
 url*http://116.237.170.51:7788/947472500
 url*http://113.124.186.195:7788/673168121
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://r.jdshipin.com/GeWKr?id=fct406
+url*http://r.jdshipin.com/qrfbg
