@@ -4845,3 +4845,8 @@ url*http://r.jdshipin.com/qrfbg
 # 自动测速检测失效链接 url|auto_bad
 url*http://112.85.93.3:7788/631780532
 url*http://112.85.93.3:7788/608807420
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+url*http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
+url*http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
