@@ -4854,3 +4854,12 @@ url*http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 # 自动测速检测失效链接 url|auto_bad
 url*http://112.85.93.3:7788/947472502
 url*http://112.85.93.3:7788/947472500
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
+url*http://116.52.173.186:1234/624878356
+url*http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227119/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+url*http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+url*https://event.pull.hebtv.com/jishi/cp1.m3u8
+url*http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+url*http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
