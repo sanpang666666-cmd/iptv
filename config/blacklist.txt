@@ -4902,3 +4902,7 @@ url*http://120.238.94.10:9901/tsfile/live/1073_1.m3u8
 url*http://116.52.173.186:1234/673168185
 url*http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 url*http://116.52.173.186:1234/738910838
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+url*http://221.7.175.154:8445/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
