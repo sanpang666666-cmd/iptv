@@ -4948,3 +4948,10 @@ url*http://116.52.173.168:1234/783847495
 
 # 自动测速检测失效链接 url|auto_bad
 url*http://116.52.173.168:1234/962042070
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+url*https://live.mxdyeah.top/live.php?id=henanHD
+url*https://t.freetv.fun/live/he-nan-wei-shi-13.php
+url*http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+url*https://tv1288.xyz/hntv.php?id=hnws
