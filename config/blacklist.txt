@@ -4955,3 +4955,11 @@ url*https://live.mxdyeah.top/live.php?id=henanHD
 url*https://t.freetv.fun/live/he-nan-wei-shi-13.php
 url*http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 url*https://tv1288.xyz/hntv.php?id=hnws
+
+# 自动测速检测失效链接 url|auto_bad
+url*http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+url*http://120.238.94.10:9901/tsfile/live/1068_1.m3u8
+url*http://222.86.13.51:9999/rtp/235.254.198.26:1380
+url*http://101.35.240.114:88/live.php?id=河南卫视
+url*http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=88295ad4c23801b4db8f2e9c29bc4789&wsTime=1770595078
+url*http://120.211.62.180:8000/hls/40/index.m3u8
